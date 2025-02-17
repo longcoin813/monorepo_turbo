@@ -9,6 +9,7 @@ lerna-debug.log*
 apps/backend/.gradle
 apps/backend/build
 apps/backend/gradle
+apps/frontend/node_modules
 node_modules
 dist
 dist-ssr
